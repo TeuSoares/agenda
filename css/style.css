@@ -1,0 +1,57 @@
+/* Agenda */
+.navbar-bg{
+    background-color: #2196f3!important;
+}
+.title.menu{
+    width: 100%;
+    text-align: center!important;
+}
+.item-media.color_c{
+    background-color: #2196f3;
+    border-radius: 50%;
+}
+.color_c span{
+    text-align: center;
+    width: 100%;
+    font-weight: 700;
+    color: #f9f9f9;
+    text-transform: uppercase;
+}
+.item-media.color_c2{
+    background-color: rgb(255, 59, 48,0.4);
+    border-radius: 50%;
+}
+.color_c2 span{
+    text-align: center;
+    width: 100%;
+    font-weight: 700;
+    color: #d31515;
+    text-transform: uppercase;
+}
+.small{
+    font-size: 0.8rem;
+}
+.list .item-content{
+    padding: 0.15rem 0!important;
+}
+.text-white{
+    color: #fff;
+}
+.content-block-title{
+    display: flex;
+    justify-content: space-around;
+}
+.item-title.atividade{
+    text-align: left;
+    width: 100%;
+    padding: 0 0.5rem;
+}
+.color-text{
+    color: #270101;
+}
+.bg-color-red{
+    background-color: rgb(255, 59, 48,0.4)!important;
+}
+.panel2{
+    background-color: #1a1a1a;
+}
